@@ -1,0 +1,11 @@
+C:\University\Term 9\Kargah 3\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\University\Term 9\Kargah 3\Final Project\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\University\Term 9\Kargah 3\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\University\Term 9\Kargah 3\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\University\Term 9\Kargah 3\Final Project\Final Project\obj\Debug\Final_Project.MainForm.resources
+C:\University\Term 9\Kargah 3\Final Project\Final Project\obj\Debug\Final_Project.AddEditForm.resources
+C:\University\Term 9\Kargah 3\Final Project\Final Project\obj\Debug\Final_Project.SearchForm.resources
+C:\University\Term 9\Kargah 3\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\University\Term 9\Kargah 3\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\University\Term 9\Kargah 3\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\University\Term 9\Kargah 3\Final Project\Final Project\obj\Debug\Final Project.pdb
